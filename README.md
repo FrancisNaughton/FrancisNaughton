@@ -1,5 +1,10 @@
 ## 👋 Hi, I’m @FrancisNaughton
 ## 👀 I’m interested in ...
+  - Computer Internetworking
+  - Cybersecurity
+  - Linux
+  - Scripting
+
 ## 🌱 I’m currently learning **Computer Networking**, specifically:
   - Leaf-Spine Architecture
   - Dell Sonic-OS
