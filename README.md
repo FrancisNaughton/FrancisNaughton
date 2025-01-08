@@ -13,7 +13,7 @@
   
 ## 📬 Get in Touch
   - Email: francis.naughton301@gmail.com
-  - Site: fran-cs-naughton.com
+  - Site: https://fran-cs-naughton.com
 <!---
 FrancisNaughton/FrancisNaughton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
