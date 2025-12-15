@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @FrancisNaughton
-## 👀 I’m interested in ...
+##  I’m interested in ...
   - Computer Internetworking
   - Cybersecurity
   - Linux
